@@ -1,3 +1,7 @@
 # Joshua Francis's portfolio
 
 This is my professional portfolio. It uses AWS and ReactJS.
+
+## Technologis uses
+Git and githug
+SSH
