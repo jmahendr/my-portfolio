@@ -1,1 +1,3 @@
-# my-portfolio
+# Joshua Francis's portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
