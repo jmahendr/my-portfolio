@@ -2,6 +2,8 @@
 
 This is my professional portfolio. It uses AWS and ReactJS.
 
-## Technologis uses
-Git and githug
+## Technologies used
+
+Brew
+Git and github
 SSH
